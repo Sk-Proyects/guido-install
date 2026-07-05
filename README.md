@@ -20,11 +20,12 @@ para instalarlo — solo, sin conocimientos técnicos, en unos minutos.
 
 ## Windows
 
-1. **[Descarga el instalador para Windows](https://github.com/Sk-Proyects/guido-install/raw/main/install.bat)**
-2. Haz doble clic en `install.bat`. Si Windows muestra "Windows protegió tu PC", haz clic en
+1. **[Descarga el instalador para Windows](https://github.com/Sk-Proyects/guido-install/raw/main/Instalar-Guido-Windows.zip)**
+2. Abre el archivo descargado. Vas a ver `install.bat`.
+3. Haz doble clic en `install.bat`. Si Windows muestra "Windows protegió tu PC", haz clic en
    **Más información → Ejecutar de todas formas** (es esperado — el instalador no está firmado).
-3. Sigue los pasos en pantalla: inicio de sesión en GitHub (navegador) y el resto se instala solo.
-4. Al terminar vas a tener **Guido** en el escritorio y en el menú inicio. Doble clic y listo.
+4. Sigue los pasos en pantalla: inicio de sesión en GitHub (navegador) y el resto se instala solo.
+5. Al terminar vas a tener **Guido** en el escritorio y en el menú inicio. Doble clic y listo.
 
 ## ¿Algo salió mal?
 
