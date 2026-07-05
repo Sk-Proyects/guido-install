@@ -1,4 +1,4 @@
-#Requires -Version 5.1
+﻿#Requires -Version 5.1
 # Guido — instalador para Windows. PUBLIC bootstrap artifact (spec 2026-07-04 §7): thin —
 # prereqs + gh login + clone, then DELEGATES to the cloned repo's install.ps1 -Managed.
 Set-StrictMode -Version Latest
